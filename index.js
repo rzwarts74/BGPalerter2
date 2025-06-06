@@ -132,7 +132,7 @@ const params = yargs
     .example('$0 generate -a 2914 -o prefixes.yml', 'Generate prefixes for AS2914')
     .help('h')
     .alias('h', 'help')
-    .epilog('Copyright (c) 2019, NTT Ltd')
+    .epilog('Copyright (c) 2025 ITSec Works')
     .argv;
 
 switch(params._[0]) {
