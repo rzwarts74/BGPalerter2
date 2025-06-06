@@ -6,6 +6,9 @@ on:
   pull_request:
     branches: [ "*" ]
 
+permissions:
+  contents: read
+
 jobs:
   build:
     name: Build
@@ -36,10 +39,10 @@ jobs:
         npm run compile
 
     - name: Upload Artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       if: ${{ always() }}
       with:
-        name: logs
+        name: logsbuild
         path: ~/.npm/_logs/*
         retention-days: 14
 
@@ -106,9 +109,9 @@ jobs:
         sleep 30 && npm run test-kafka
 
     - name: Upload Artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       if: ${{ always() }}
       with:
-        name: logs
+        name: logstest
         path: ~/.npm/_logs/*
         retention-days: 14
