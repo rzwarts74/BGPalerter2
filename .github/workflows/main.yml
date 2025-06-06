@@ -39,10 +39,10 @@ jobs:
         npm run compile
 
     - name: Upload Artifact
-      uses: actions/upload-build-artifact@v4
+      uses: actions/upload-artifact@v4
       if: ${{ always() }}
       with:
-        name: logs
+        name: logsbuild
         path: ~/.npm/_logs/*
         retention-days: 14
 
@@ -109,9 +109,9 @@ jobs:
         sleep 30 && npm run test-kafka
 
     - name: Upload Artifact
-      uses: actions/upload-test-artifact@v4
+      uses: actions/upload-artifact@v4
       if: ${{ always() }}
       with:
-        name: logs
+        name: logstest
         path: ~/.npm/_logs/*
         retention-days: 14
