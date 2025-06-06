@@ -30,16 +30,16 @@
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-import yargs from 'yargs';
-import fs from "fs";
-import yaml from "js-yaml";
-import os from "os";
+const yargs = require('yargs');
+const fs = require("fs");
+const yaml = require("js-yaml");
+const os = require("os");
 
 const params = yargs
     .usage('Usage: $0 <command> [options]')
 
-    .command('$0', 'Run BGPalerter (default)', function () {
-        yargs
+    .command('$0', 'Run BGPalerter (default)', function (yargs) {
+        return yargs
             .alias('v', 'version')
             .nargs('v', 0)
             .describe('v', 'Show version number')
@@ -56,14 +56,13 @@ const params = yargs
             .nargs('M', 0)
             .describe('M', 'Skip memory check')
 
-
             .alias('d', 'data-volume')
             .nargs('d', 1)
             .describe('d', 'A directory where configuration and data is persisted')
     })
 
-    .command('generate', 'Generate prefixes to monitor', function () {
-        yargs
+    .command('generate', 'Generate prefixes to monitor', function (yargs) {
+        return yargs
             .alias('v', 'version')
             .nargs('v', 0)
             .describe('v', 'Show version number')
@@ -106,7 +105,7 @@ const params = yargs
 
             .alias('g', 'group')
             .nargs('g', 1)
-            .describe('x', 'Define a user group for all the generated rules.')
+            .describe('g', 'Define a user group for all the generated rules.')
 
             .alias('A', 'append')
             .nargs('A', 0)

@@ -1,4 +1,4 @@
-import restify from "restify";
+import express from "express";
 
 export default class RestApi {
     static _instance;
@@ -24,17 +24,17 @@ export default class RestApi {
             this._serverPromise = new Promise((resolve, reject) => {
                 try {
                     if (this.host && this.port) {
-                        this.server = restify.createServer();
-                        this.server.pre(restify.pre.sanitizePath());
-                        this.server.listen(this.port, this.host);
-                        this.enabled = true;
-                        resolve();
+                        this.server = express();
+                        this.server.listen(this.port, this.host, () => {
+                            this.enabled = true;
+                            resolve();
+                        });
                     } else if (this.port) {
-                        this.server = restify.createServer();
-                        this.server.pre(restify.pre.sanitizePath());
-                        this.server.listen(this.port);
-                        this.enabled = true;
-                        resolve();
+                        this.server = express();
+                        this.server.listen(this.port, () => {
+                            this.enabled = true;
+                            resolve();
+                        });
                     } else {
                         this.enabled = false
                         reject("The port parameter must be specified to start the REST API.")
