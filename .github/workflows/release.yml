@@ -3,6 +3,9 @@ on:
     tags:
       - 'v*'
 
+permissions:
+  contents: read
+
 jobs:
   build-debs:
     runs-on: ubuntu-latest
