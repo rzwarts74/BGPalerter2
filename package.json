@@ -1,17 +1,17 @@
 {
   "name": "bgpalerter",
-  "version": "1.33.0",
+  "version": "1.34.0",
   "description": "BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.",
   "author": {
-    "name": "Massimo Candela",
-    "url": "https://massimocandela.com"
+    "name": "Raymond Zwarts",
+    "url": "https://github.com"
   },
   "license": "BSD-3-Clause",
   "main": "src/worker.js",
   "bin": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nttgin/BGPalerter.git"
+    "url": "git+https://github.com/rzwarts74/BGPalerter2.git"
   },
   "scripts": {
     "babel": "./node_modules/.bin/babel",
