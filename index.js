@@ -137,7 +137,6 @@ const params = yargs
 
 switch(params._[0]) {
     case "generate":
-        const generatePrefixes = require("./src/generatePrefixesList");
         const debug = !!params.D;
         const historical = !!params.H;
         let prefixes = null;
@@ -190,7 +189,8 @@ switch(params._[0]) {
             throw new Error("Output file not specified");
         }
 
-        generatePrefixes(inputParameters)
+        import("./src/generatePrefixesList.js")
+            .then(module => module.default(inputParameters))
             .then(content => {
                 fs.writeFileSync(params.o, yaml.dump(content));
                 process.exit(0);

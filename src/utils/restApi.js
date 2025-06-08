@@ -1,6 +1,6 @@
-import express from "express";
+const express = require("express");
 
-export default class RestApi {
+class RestApi {
     static _instance;
 
     constructor(params) {
@@ -61,3 +61,5 @@ export default class RestApi {
         }
     }
 }
+
+module.exports = { default: RestApi };

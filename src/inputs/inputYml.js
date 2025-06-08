@@ -30,13 +30,13 @@
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-import yaml from "js-yaml";
-import fs from "fs";
-import Input from "./input";
-import ipUtils from "ip-sub";
-import { AS } from "../model";
+const yaml = require("js-yaml");
+const fs = require("fs");
+const Input = require("./input").default;
+const ipUtils = require("ip-sub");
+const { AS } = require("../model");
 
-export default class InputYml extends Input {
+class InputYml extends Input {
 
     constructor(env){
         super(env);
@@ -360,3 +360,5 @@ export default class InputYml extends Input {
             resolve({ ...prefixes, options });
         });
 }
+
+module.exports = { default: InputYml };

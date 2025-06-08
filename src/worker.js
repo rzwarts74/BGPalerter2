@@ -30,11 +30,11 @@
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-import cluster from "cluster";
-import fs from "fs";
-import inputYml from "./inputs/inputYml"; // Default input connector
+const cluster = require("cluster");
+const fs = require("fs");
+const inputYml = require("./inputs/inputYml"); // Default input connector
 
-export default class Worker {
+class Worker {
     constructor({ configFile, volume, configConnector, inputConnector, groupFile }) {
         global.EXTERNAL_CONFIG_CONNECTOR = global.EXTERNAL_CONFIG_CONNECTOR || configConnector;
         global.EXTERNAL_INPUT_CONNECTOR = global.EXTERNAL_INPUT_CONNECTOR || inputConnector;
@@ -137,4 +137,4 @@ export default class Worker {
     }
 }
 
-
+module.exports = { default: Worker };

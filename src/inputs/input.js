@@ -30,12 +30,12 @@
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-import ipUtils from "ip-sub";
-import inquirer from "inquirer";
-import generatePrefixes from "../generatePrefixesList";
-import LongestPrefixMatch from "longest-prefix-match";
+const ipUtils = require("ip-sub");
+const inquirer = require("inquirer");
+const generatePrefixes = require("../generatePrefixesList");
+const LongestPrefixMatch = require("longest-prefix-match");
 
-export default class Input {
+class Input {
 
     constructor(env){
         this.prefixes = [];
@@ -356,3 +356,5 @@ export default class Input {
     };
 
 }
+
+module.exports = { default: Input };
