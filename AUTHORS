@@ -1,5 +1,6 @@
 BGPalerter was originally created in February 2019 at NTT Ltd.
 
+You are looking at a fork of the original.
 Here is a list of authors and contributors who patched or extended the code.
 If this list is not up to date, please contact NTT or one of the authors.
 
@@ -9,13 +10,9 @@ If this list is not up to date, please contact NTT or one of the authors.
     NTT
     https://massimocandela.com/
 
-- CONTRIBUTORS -
-    Damian Zaremba, Fastly
-    Mircea Ulinic, DigitalOcean
-    Alan Haynes, Harbin Clinic
-    Florian Domain, Criteo
-    Louis Poinsignon, Cloudflare
-    See complete list at https://github.com/nttgin/BGPalerter/graphs/contributors
+- FORK CONTRIBUTORS -
+    Raymond Zwarts
+    See complete list at https://github.com/rzwarts74/BGPalerter2/graphs/contributors
 
 Special thanks to:
     Job Snijders <job@openbsd.org> for OpenBSD rpki-client (https://www.rpki-client.org/)
