@@ -34,7 +34,7 @@ const chai = require("chai");
 const fs = require("fs");
 const yaml = require("js-yaml");
 const chaiSubset = require('chai-subset');
-const generatePrefixes = require('../../src/generatePrefixesList');
+const generatePrefixes = require('../../src/generatePrefixesList').default;
 const expect = chai.expect;
 const asyncTimeout = 120000;
 chai.use(chaiSubset);

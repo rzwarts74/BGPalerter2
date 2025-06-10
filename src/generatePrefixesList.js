@@ -4,14 +4,14 @@ import brembo from "brembo";
 import merge from "deepmerge";
 import batchPromises from "batch-promises";
 import RpkiValidator from "rpki-validator";
-import { AS } from "./model";
+import { AS } from "./model.js";
 import ipUtils from "ip-sub";
 
 const apiTimeout = 120000;
 const clientId = "ntt-bgpalerter";
-import axiosEnrich from "./utils/axiosEnrich";
+import axiosEnrich from "./utils/axiosEnrich.js";
 
-module.exports = function generatePrefixes(inputParameters) {
+export default async function generatePrefixes(inputParameters) {
     let {
         asnList,
         exclude,
@@ -41,7 +41,7 @@ module.exports = function generatePrefixes(inputParameters) {
 
     let proxy;
     if (httpProxy) {
-        const {HttpsProxyAgent} = require("https-proxy-agent");
+        const {HttpsProxyAgent} = await import("https-proxy-agent");
         proxy = new HttpsProxyAgent(url.parse(httpProxy));
     }
     axiosEnrich(axios, proxy, clientId);

@@ -1,0 +1,9093 @@
+45.196.78.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+168.93.196.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.196.0.0/17:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+77.110.76.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+192.80.12.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.31.192.0/18:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+31.57.28.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+50.20.224.0/21:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+50.3.54.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+204.156.0.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2604:180:f5::/48:
+  description: No description provided (No ROA available)
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+199.192.176.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+149.18.100.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+209.170.0.0/18:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2001:218::/32:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+204.42.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.244.209.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+77.110.88.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+81.180.36.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+103.249.192.0/22:
+  description: No description provided (No ROA available)
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.45.140.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+148.253.241.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+64.188.92.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.97.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+92.112.244.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.244.208.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.60.13.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+128.242.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.67.128.0/17:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+212.119.0.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+199.4.64.0/18:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+163.171.247.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+209.57.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.94.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+209.39.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+192.147.176.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+198.64.0.0/15:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.177.8.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+163.171.90.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.21.128.0/18:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+180.223.80.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.97.0.0/17:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+209.21.0.0/18:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+206.52.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+88.81.168.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+81.181.236.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+168.199.236.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+192.147.160.0/21:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+104.152.88.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+31.57.24.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+104.140.86.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+31.56.169.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+168.93.201.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+185.199.196.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+202.68.66.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+31.57.48.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.55.128.0/18:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+205.157.128.0/20:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+209.168.0.0/17:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.129.168.0/22:
+  description: No description provided (No ROA available)
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+180.223.202.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+23.230.209.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.60.61.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+206.86.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+92.112.246.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+198.63.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+104.253.99.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+203.131.244.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2001:d38::/32:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.153.128.0/17:
+  description: No description provided (No ROA available)
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.88.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+168.93.198.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+206.54.0.0/18:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+154.214.203.0/24:
+  description: No description provided
+  asn:
+    - 328608
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+84.46.212.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+72.9.225.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+205.238.0.0/18:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+117.103.176.0/20:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+23.135.4.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+91.190.186.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+77.111.72.0/21:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+142.147.128.0/18:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+130.94.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+85.254.8.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+111.92.131.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+91.186.160.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.152.64.0/18:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+61.200.80.0/20:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+23.134.68.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+192.217.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.24.68.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+82.26.137.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+198.133.158.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+102.135.64.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+180.223.104.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+92.112.247.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.60.0.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+84.46.214.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+209.139.0.0/17:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.79.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+88.81.180.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+81.93.176.0/20:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+212.82.40.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+203.205.112.0/20:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.72.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+116.51.16.0/20:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+198.87.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+172.120.151.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+77.111.64.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+31.193.244.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+206.68.0.0/15:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+155.254.220.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+154.6.242.0/23:
+  description: No description provided (No ROA available)
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+168.93.199.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.99.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+111.92.142.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+153.254.0.0/15:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+141.138.78.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+195.180.156.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+209.238.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+77.110.92.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+92.61.110.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+204.57.32.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+128.121.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.199.0.0/17:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.197.128.0/17:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+31.56.171.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+91.124.55.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+23.133.28.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+111.92.139.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+50.3.8.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+170.130.154.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+64.72.200.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+31.56.159.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+131.103.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+31.57.56.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+199.240.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+62.73.160.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+31.222.212.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2001:d40::/32:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+170.130.96.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+154.214.255.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+192.81.248.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+212.46.37.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+202.68.72.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.159.0.0/18:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+209.70.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+154.214.216.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2602:ffb7:580::/46:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+92.249.25.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+82.26.139.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+117.104.128.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+91.190.191.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+198.104.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+204.142.0.0/15:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+206.183.192.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+198.66.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+128.241.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+92.112.240.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+206.213.64.0/18:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+95.173.40.0/21:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+158.181.56.0/21:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+61.213.160.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.60.5.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+117.104.132.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.177.80.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+50.3.96.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+140.228.28.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+46.20.98.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+85.116.192.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+170.130.106.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+114.31.208.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+163.171.91.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.87.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+31.56.113.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+154.214.194.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+103.151.6.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+82.26.136.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+174.35.63.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+23.133.228.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+91.92.240.0/20:
+  description: No description provided (No ROA available)
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.93.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+140.228.17.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+23.133.164.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+85.116.216.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+148.253.242.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.137.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+202.89.255.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+154.214.223.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+81.25.192.0/20:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+27.50.96.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+203.78.192.0/20:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+206.166.128.0/18:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+198.172.0.0/15:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+82.26.142.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+117.104.64.0/18:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.60.6.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+148.253.243.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.153.160.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.137.128.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.24.64.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+180.223.203.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+192.144.44.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+61.213.144.0/20:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+141.138.79.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+198.247.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.21.0.0/17:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.100.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+180.223.64.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+104.152.144.0/21:
+  description: No description provided (No ROA available)
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+208.80.248.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+140.228.18.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.198.128.0/17:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+202.69.224.0/20:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+213.198.0.0/17:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+94.156.64.0/21:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+193.23.217.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+72.9.172.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+85.254.12.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+148.253.250.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+109.110.177.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+83.231.128.0/17:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+84.46.222.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+209.75.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+172.252.23.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+203.55.122.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+86.38.129.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+202.68.70.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+103.3.167.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+180.223.200.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+81.93.208.0/20:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+88.223.176.0/20:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+192.84.48.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+23.135.60.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+202.68.68.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+104.206.26.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2001:728::/32:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+117.120.0.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+202.160.64.0/21:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+85.254.13.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+141.138.77.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+46.34.61.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+206.184.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+199.224.0.0/20:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+168.199.248.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+216.44.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.84.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+111.68.128.0/17:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.60.60.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+68.170.2.0/23:
+  description: No description provided (No ROA available)
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+91.108.186.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+31.57.108.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+88.81.188.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+209.107.0.0/18:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.177.84.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+154.214.253.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+154.214.219.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.67.74.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+199.234.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+180.223.100.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+72.9.184.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+82.26.133.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.60.12.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+172.121.234.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+168.93.203.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+174.35.9.0/24:
+  description: No description provided
+  asn:
+    - 2914
+    - 54994
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+206.222.32.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+23.135.76.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+204.200.0.0/14:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+154.214.220.0/24:
+  description: No description provided
+  asn:
+    - 328608
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+87.246.11.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+163.171.246.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.60.188.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+91.124.57.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+204.247.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+151.249.90.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+202.68.78.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+77.111.68.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.207.128.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+101.110.128.0/17:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+154.214.252.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+209.94.0.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+163.171.253.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.24.76.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+199.245.16.0/20:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+180.223.216.0/21:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+95.134.172.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+193.29.221.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+180.223.201.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.237.171.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+209.189.0.0/17:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+202.68.64.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+120.29.160.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+85.254.14.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+87.246.8.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+81.19.96.0/20:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+82.26.132.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+204.194.176.0/21:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+168.143.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.60.63.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+180.223.76.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+23.134.172.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.83.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+88.81.184.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+198.17.243.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+153.254.90.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2804:8f8::/32:
+  description: No description provided (No ROA available)
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+173.44.178.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+89.187.11.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+84.46.208.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+89.187.5.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.15.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.177.40.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+163.171.251.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+206.82.32.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+95.134.170.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.71.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+31.222.208.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+172.121.10.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+170.62.116.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.91.64.0/18:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+206.163.0.0/17:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.206.0.0/17:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+31.56.158.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.33.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+203.131.240.0/20:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+96.126.131.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2404:3600::/32:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+87.246.10.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+157.15.200.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+104.140.98.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+205.146.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+194.150.75.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+206.239.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+85.254.15.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+120.88.48.0/21:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+93.89.218.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+23.134.36.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+168.93.202.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+77.110.64.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+185.162.178.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+180.223.92.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.67.72.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+61.58.32.0/20:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.90.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+72.9.176.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+192.80.16.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+103.4.202.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+23.231.100.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+31.57.107.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+31.56.174.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2606:b9c0:1::/48:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+204.141.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+142.147.240.0/21:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+120.29.144.0/21:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+148.253.239.0/24:
+  description: No description provided
+  asn:
+    - 54994
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+31.58.34.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+163.171.254.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+148.253.240.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+66.6.56.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+77.111.80.0/21:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+5.158.208.0/21:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+199.73.32.0/21:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+196.44.119.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+206.163.192.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.76.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+185.69.120.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+31.58.212.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+206.14.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+203.105.64.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+31.56.175.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+81.20.64.0/20:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.82.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+206.55.0.0/18:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+23.133.116.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.96.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+199.103.128.0/17:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+86.38.128.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+91.92.248.0/22:
+  description: No description provided (No ROA available)
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+154.214.209.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+92.112.243.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+154.214.254.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+23.134.28.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.111.64.0/18:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+61.251.96.0/20:
+  description: No description provided (No ROA available)
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.241.0.0/17:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+204.27.64.0/18:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+86.38.158.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+92.61.107.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+84.46.211.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+82.112.96.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+198.138.0.0/15:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.32.64.0/18:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+180.223.32.0/21:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+173.44.194.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+199.217.128.0/17:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+202.68.76.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.60.4.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+180.223.96.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+209.157.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+92.112.245.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+31.56.170.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+198.84.16.0/20:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.155.64.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+37.34.80.0/21:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+153.254.80.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+87.246.9.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.98.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+77.110.84.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+209.139.128.0/18:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+161.58.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+208.80.249.0/24:
+  description: No description provided
+  asn:
+    - 2914
+    - 54994
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+194.154.24.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.92.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+50.31.236.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+91.124.52.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+109.72.112.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+209.43.128.0/17:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+31.57.106.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+91.92.244.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+194.180.26.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.60.24.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+168.93.197.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+180.223.252.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+180.223.68.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+210.175.160.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+46.34.60.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+211.130.96.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2001:418::/32:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.74.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+165.254.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+64.188.80.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+151.249.91.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+213.130.32.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+84.46.215.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+122.255.80.0/20:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.85.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+202.68.74.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+209.227.0.0/17:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+170.62.112.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.86.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+204.156.128.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+129.250.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+91.124.67.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+206.50.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+95.134.174.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.89.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+31.57.109.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+75.153.0.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+205.149.160.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+212.69.88.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+23.27.10.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+77.110.72.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+196.44.117.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+204.233.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+213.164.96.0/20:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+209.212.224.0/20:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.56.0.0/15:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+91.206.110.0/23:
+  description: No description provided (No ROA available)
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2001:218:8000::/38:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+27.110.64.0/21:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.156.128.0/17:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.92.104.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+209.107.64.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+209.162.64.0/18:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+23.135.44.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+209.124.0.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+23.133.156.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+192.204.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.77.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+206.58.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+198.106.0.0/15:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+204.170.0.0/15:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.80.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+198.170.0.0/15:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.81.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+199.236.0.0/14:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+111.92.133.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+204.245.128.0/17:
+  description: No description provided (No ROA available)
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.60.192.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+130.254.44.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.60.1.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+77.110.68.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+120.88.48.0/20:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+153.254.92.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+88.81.160.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+31.57.52.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+66.6.52.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+115.167.67.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.60.14.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+82.26.144.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+23.135.84.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+154.214.208.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.60.62.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.150.128.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+91.124.62.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+81.180.204.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.95.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+23.134.60.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+98.159.44.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+192.220.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+23.133.236.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+148.253.249.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+124.40.0.0/18:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+180.223.88.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+205.212.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+124.40.32.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+174.35.40.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+204.0.0.0/14:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+31.56.168.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+72.9.168.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.20.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+206.214.94.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+92.112.242.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+208.66.4.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+116.51.40.0/21:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.70.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.158.88.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+85.254.118.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+91.124.20.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+88.81.164.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+180.223.72.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+174.35.65.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+172.120.46.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.24.72.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.55.192.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+185.87.78.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+95.134.168.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+88.223.224.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+174.35.64.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.58.0.0/17:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+88.81.176.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+31.56.154.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+185.84.16.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2606:b9c0::/32:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+88.81.172.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+84.46.203.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+216.42.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+206.80.32.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+111.92.134.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.73.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+77.110.80.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+206.163.128.0/18:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+130.254.32.0/21:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+203.32.21.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+83.217.224.0/19:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+31.193.240.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+115.167.65.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+157.238.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+140.174.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+72.9.188.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+85.254.117.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+202.47.16.0/20:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2604:180:c1::/48:
+  description: No description provided (No ROA available)
+  asn:
+    - 3842
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+202.68.64.0/20:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+50.3.64.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.60.2.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+209.69.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+104.253.246.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+178.92.16.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+194.102.120.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.71.64.0/18:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+104.140.32.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+23.134.228.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+85.254.9.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+149.18.117.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2001:218:e000::/38:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.150.0.0/17:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.88.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+198.88.0.0/16:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+92.112.241.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+154.214.202.0/24:
+  description: No description provided
+  asn:
+    - 328608
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+61.120.144.0/20:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+193.104.245.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.180.40.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+154.214.195.0/24:
+  description: No description provided
+  asn:
+    - 328608
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+140.228.19.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+207.22.64.0/18:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+178.92.72.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+121.127.36.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+172.121.159.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+180.223.108.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+168.93.200.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+178.92.8.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+129.250.60.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+46.253.80.0/21:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+23.134.236.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+103.13.80.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.75.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+178.93.0.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.196.91.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+178.92.24.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+180.223.84.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+82.26.143.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+91.124.58.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+31.57.105.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+91.124.83.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.156.29.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+159.148.143.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+178.92.73.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+46.70.192.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+79.135.141.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+185.176.119.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+217.156.57.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+81.181.175.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+83.223.156.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+85.254.63.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+178.92.72.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+79.132.183.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+185.180.145.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+178.92.39.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+88.223.180.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+88.223.189.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+5.182.28.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+195.138.103.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+88.223.190.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+83.223.138.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+79.132.188.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+80.97.54.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+88.223.218.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+213.164.98.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+83.223.152.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+178.92.75.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+178.92.38.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+194.102.217.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+91.242.73.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+178.92.37.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+178.92.36.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+85.254.46.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+85.254.41.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+88.223.208.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+79.132.180.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+91.190.37.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+178.92.36.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+178.92.74.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+88.223.191.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+195.138.120.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+83.223.140.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+80.81.47.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+46.70.194.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+83.223.131.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.116.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.47.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+79.132.190.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+141.11.198.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+185.176.116.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+46.70.205.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+88.223.183.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+85.133.227.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+46.70.217.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+46.70.213.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+46.70.197.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.70.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+141.11.196.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+46.70.206.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+46.70.202.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+195.225.128.0/23:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.21.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+185.58.157.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+46.70.209.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.97.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+46.70.198.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+185.219.188.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.90.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+185.219.189.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.136.0/22:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+141.11.243.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+141.11.199.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+46.70.201.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.131.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+85.133.208.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+83.223.158.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+46.70.221.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.148.114.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.148.143.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.148.101.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.154.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.16.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.36.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.148.7.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.148.71.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.148.34.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.148.113.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.182.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.148.47.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.17.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.148.133.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.18.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.148.132.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.45.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.177.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.113.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.162.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.148.107.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.148.9.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.178.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.143.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.132.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.176.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.158.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.148.103.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.148.146.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.148.11.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.66.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.163.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.148.73.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+162.141.82.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.148.124.0/24:
+  description: No description provided
+  asn:
+    - 2914
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+192.80.13.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:218:2200::/40:
+  description: HIGE NTT Communications Corporation, JP
+  asn:
+    - 18259
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:218:2004::/48:
+  description: NEBULA, US
+  asn:
+    - 140224
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:218:3004::/48:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.42.16.0/20:
+  description: I3BROADBAND, US
+  asn:
+    - 12119
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.42.18.0/24:
+  description: I3BROADBAND, US
+  asn:
+    - 12119
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.42.252.0/22:
+  description: NETHER-NET, US
+  asn:
+    - 267
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.42.25.0/24:
+  description: I3BROADBAND, US
+  asn:
+    - 12119
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.42.29.0/24:
+  description: I3BROADBAND, US
+  asn:
+    - 12119
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.67.130.0/24:
+  description: SELECTNET-AS, US
+  asn:
+    - 10708
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.67.137.0/24:
+  description: SELECTNET-AS, US
+  asn:
+    - 10708
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.64.25.0/24:
+  description: HCCS, US
+  asn:
+    - 25977
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.64.24.0/24:
+  description: HCCS, US
+  asn:
+    - 25977
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.64.8.0/21:
+  description: HCCS, US
+  asn:
+    - 25977
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.64.16.0/21:
+  description: HCCS, US
+  asn:
+    - 25977
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.64.29.0/24:
+  description: HCCS, US
+  asn:
+    - 25977
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.64.57.0/24:
+  description: HCCS, US
+  asn:
+    - 25977
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.64.32.0/20:
+  description: HCCS, US
+  asn:
+    - 25977
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.64.248.0/22:
+  description: QUASAR-DATA-CENTER, US
+  asn:
+    - 46785
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.64.27.0/24:
+  description: HCCS, US
+  asn:
+    - 25977
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.64.7.0/24:
+  description: HCCS, US
+  asn:
+    - 25977
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.64.28.0/24:
+  description: HCCS, US
+  asn:
+    - 25977
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.65.204.0/24:
+  description: COGENT-174, US
+  asn:
+    - 174
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.64.26.0/24:
+  description: HCCS, US
+  asn:
+    - 25977
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+199.4.110.0/24:
+  description: COGENT-174, US
+  asn:
+    - 174
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+209.39.20.0/24:
+  description: COGENT-174, US
+  asn:
+    - 174
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+209.39.26.0/24:
+  description: COGENT-174, US
+  asn:
+    - 174
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+128.242.94.0/24:
+  description: NTT NTT United Kingdom Ltd, GB
+  asn:
+    - 204670
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+212.119.11.0/24:
+  description: FORTINET, US
+  asn:
+    - 40934
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+212.119.8.0/24:
+  description: ANAPLAN, US
+  asn:
+    - 26114
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+212.119.5.0/24:
+  description: TRIVAGO-IDC trivago N.V., DE
+  asn:
+    - 209915
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+209.57.32.0/24:
+  description: CHMCA, US
+  asn:
+    - 54468
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+202.68.66.76/30:
+  description: NTTA-3946, US
+  asn:
+    - 3949
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.55.138.24/29:
+  description: NET-DIDATA-NY, US
+  asn:
+    - 21778
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+205.238.25.0/24:
+  description: SCN-NET, US
+  asn:
+    - 12204
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+205.238.26.0/23:
+  description: SCN-NET, US
+  asn:
+    - 12204
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+205.157.136.0/24:
+  description: DMSAS, US
+  asn:
+    - 54121
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+209.168.124.0/24:
+  description: MARINERS-GW, US
+  asn:
+    - 397537
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+206.54.20.0/24:
+  description: NEBULA, US
+  asn:
+    - 18186
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+206.54.1.0/25:
+  description: VIETTELCAMBODIA-AS-AP ISPIXP IN CAMBODIA WITH THE BEST VERVICE IN THERE., KH
+  asn:
+    - 38623
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+206.54.2.0/25:
+  description: VIETTELCAMBODIA-AS-AP ISPIXP IN CAMBODIA WITH THE BEST VERVICE IN THERE., KH
+  asn:
+    - 38623
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+206.54.23.0/24:
+  description: CITICTEL-CPC-AS4058 CITIC Telecom International CPC Limited, HK
+  asn:
+    - 4058
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+206.54.42.0/24:
+  description: CTCSCITECHLIMITED-AS-AP CTCSCI TECH LIMITED, HK
+  asn:
+    - 152111
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+206.54.22.0/24:
+  description: NEBULA, US
+  asn:
+    - 18186
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+206.54.21.0/24:
+  description: NEBULA, US
+  asn:
+    - 18186
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+206.54.24.0/24:
+  description: M2GCL-AS-AP 263 Global Communications Limited, HK
+  asn:
+    - 142132
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+206.54.25.0/24:
+  description: M2GCL-AS-AP 263 Global Communications Limited, HK
+  asn:
+    - 142132
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+206.54.16.0/24:
+  description: GANJINGWORLD, US
+  asn:
+    - 1008
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+117.103.191.0/24:
+  description: NEBULA, US
+  asn:
+    - 140224
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+117.103.190.0/24:
+  description: NEBULA, US
+  asn:
+    - 140224
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+61.200.83.144/28:
+  description: NET-CPRK, US
+  asn:
+    - 4913
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+61.200.87.0/24:
+  description: KANSUIUN-AS-AP Kansuiun Co., Ltd, JP
+  asn:
+    - 139358
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+61.200.81.128/25:
+  description: NINTATSU Nintatsu Global Telecommunications Corporation, JP
+  asn:
+    - 55888
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+153.254.93.0/24:
+  description: NTTIP-AS-AP NTT Australia Solutions Pty Ltd, AU
+  asn:
+    - 23918
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+153.254.87.136/29:
+  description: CHL-AS-AP CloudRadium HK Limited, HK
+  asn:
+    - 17476
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+153.254.87.128/29:
+  description: CHL-AS-AP CloudRadium HK Limited, HK
+  asn:
+    - 17476
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+153.254.95.0/24:
+  description: NTTIP-AS-AP NTT Australia Solutions Pty Ltd, AU
+  asn:
+    - 23918
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+153.254.111.0/24:
+  description: VLAN24-INC, US
+  asn:
+    - 14821
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+153.254.80.64/26:
+  description: NTTA-3946, US
+  asn:
+    - 3949
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+153.254.92.0/24:
+  description: NTTIP-AS-AP NTT Australia Solutions Pty Ltd, AU
+  asn:
+    - 23918
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+153.254.87.0/26:
+  description: NINTATSU Nintatsu Global Telecommunications Corporation, JP
+  asn:
+    - 55888
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+153.254.94.0/24:
+  description: NTTIP-AS-AP NTT Australia Solutions Pty Ltd, AU
+  asn:
+    - 23918
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+153.254.103.0/25:
+  description: TERAEXCH, US
+  asn:
+    - 399077
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+153.254.119.0/24:
+  description: M2GCL-AS-AP 263 Global Communications Limited, HK
+  asn:
+    - 142132
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.152.68.0/23:
+  description: I3BROADBAND, US
+  asn:
+    - 12119
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.152.102.0/23:
+  description: I3BROADBAND, US
+  asn:
+    - 12119
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.152.70.0/23:
+  description: I3BROADBAND, US
+  asn:
+    - 12119
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+116.51.29.96/27:
+  description: GLOBALSIGN-AS-AP GMO GlobalSign Pte Ltd, SG
+  asn:
+    - 138433
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+116.51.29.128/26:
+  description: CLARIVATE-01, US
+  asn:
+    - 399734
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+116.51.24.128/25:
+  description: TERAEXCH, US
+  asn:
+    - 399077
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+116.51.16.112/28:
+  description: HM-AS H &amp; M Hennes &amp; Mauritz GBC AB, SE
+  asn:
+    - 30821
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+81.93.191.0/24:
+  description: MSUI1-AS Mizuho Bank Ltd, GB
+  asn:
+    - 43486
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.87.208.0/22:
+  description: CENTRILOGIC-ASN, US
+  asn:
+    - 19693
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.87.182.0/25:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.87.208.0/21:
+  description: CENTRILOGIC-ASN, US
+  asn:
+    - 19693
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.143.62.0/23:
+  description: RAMAPO-COLLEGE, US
+  asn:
+    - 18794
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.142.180.0/24:
+  description: ECFMG, US
+  asn:
+    - 395988
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.143.68.0/24:
+  description: RAMAPO-COLLEGE, US
+  asn:
+    - 18794
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.143.64.0/22:
+  description: RAMAPO-COLLEGE, US
+  asn:
+    - 18794
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.143.61.0/24:
+  description: RAMAPO-COLLEGE, US
+  asn:
+    - 18794
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+131.103.21.64/27:
+  description: NTTDATA-RAGINGWIRE, US
+  asn:
+    - 393536
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+131.103.30.0/24:
+  description: NTT NTT United Kingdom Ltd, GB
+  asn:
+    - 204670
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+131.103.24.0/24:
+  description: NTTDATA-RAGINGWIRE, US
+  asn:
+    - 393536
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+131.103.20.192/29:
+  description: NTTDATA-RAGINGWIRE, US
+  asn:
+    - 393536
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+131.103.22.0/24:
+  description: NTTDATA-RAGINGWIRE, US
+  asn:
+    - 393536
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+131.103.138.0/23:
+  description: I3BROADBAND, US
+  asn:
+    - 12119
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+131.103.21.24/29:
+  description: NTTDATA-RAGINGWIRE, US
+  asn:
+    - 393536
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+131.103.20.224/27:
+  description: NTTDATA-RAGINGWIRE, US
+  asn:
+    - 393536
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+128.121.32.0/24:
+  description: NTT NTT United Kingdom Ltd, GB
+  asn:
+    - 204670
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+128.121.11.0/24:
+  description: NTT NTT United Kingdom Ltd, GB
+  asn:
+    - 204670
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+128.121.15.0/24:
+  description: NTT NTT United Kingdom Ltd, GB
+  asn:
+    - 204670
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+199.240.140.0/23:
+  description: KANSASNET, US
+  asn:
+    - 2914
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+199.240.130.0/24:
+  description: KANSASNET, US
+  asn:
+    - 2914
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+199.240.130.0/23:
+  description: KANSASNET, US
+  asn:
+    - 2914
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+199.240.141.0/24:
+  description: KANSASNET, US
+  asn:
+    - 2914
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+62.73.186.0/24:
+  description: NTTA-3946, US
+  asn:
+    - 3949
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+62.73.169.40/29:
+  description: radware Radware Ltd, IL
+  asn:
+    - 48851
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+62.73.169.48/29:
+  description: LABCORP-BLS, US
+  asn:
+    - 18994
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+128.241.92.0/22:
+  description: GRVYUS-PIT-A, US
+  asn:
+    - 1412
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+128.241.218.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+128.241.217.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+128.241.91.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+128.241.34.0/24:
+  description: NET-DIDATA-NY, US
+  asn:
+    - 21778
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+117.104.145.0/24:
+  description: BOX-CORP, US
+  asn:
+    - 394265
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+117.104.140.0/22:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+117.104.142.0/23:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+202.68.73.192/27:
+  description: NTTA-3946, US
+  asn:
+    - 3949
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.66.0.0/19:
+  description: RCN-AS, US
+  asn:
+    - 6079
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.66.64.0/19:
+  description: RCN-AS, US
+  asn:
+    - 6079
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.66.96.0/19:
+  description: RCN-AS, US
+  asn:
+    - 6079
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.66.192.0/19:
+  description: AS-WAVE-1, US
+  asn:
+    - 11404
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.66.1.0/24:
+  description: WINDSTREAM, US
+  asn:
+    - 7029
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.66.160.0/19:
+  description: RCN-AS, US
+  asn:
+    - 6079
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.66.224.0/19:
+  description: AS-WAVE-1, US
+  asn:
+    - 11404
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.66.128.0/19:
+  description: RCN-AS, US
+  asn:
+    - 6079
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.66.32.0/19:
+  description: RCN-AS, US
+  asn:
+    - 6079
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+209.70.240.0/24:
+  description: COGENT-174, US
+  asn:
+    - 174
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.173.202.0/24:
+  description: SECURE-24-AS, US
+  asn:
+    - 46746
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.173.201.0/24:
+  description: SECURE-24-AS, US
+  asn:
+    - 46746
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.173.213.0/24:
+  description: COGENT-174, US
+  asn:
+    - 174
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.173.203.0/24:
+  description: SECURE-24-AS, US
+  asn:
+    - 46746
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.173.160.0/23:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+203.78.204.0/22:
+  description: NTTCT-AS-TH-AP NTTCTNET, TH
+  asn:
+    - 38566
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+203.78.200.0/22:
+  description: ARCNET-NTTMSC-MY Arcnet NTT MSC ISP, MY
+  asn:
+    - 10204
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+203.78.194.160/28:
+  description: KEYSIGHT-TECHNOLOGIES, US
+  asn:
+    - 395266
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+206.166.140.0/24:
+  description: ECINET, US
+  asn:
+    - 14717
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+206.166.140.0/22:
+  description: ECINET, US
+  asn:
+    - 14717
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+206.166.142.0/23:
+  description: ECINET, US
+  asn:
+    - 14717
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+61.213.168.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+61.213.189.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.137.10.0/24:
+  description: SELECTNET-AS, US
+  asn:
+    - 10708
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.137.78.0/23:
+  description: COGENT-174, US
+  asn:
+    - 174
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.137.5.0/24:
+  description: SELECTNET-AS, US
+  asn:
+    - 10708
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.137.3.0/24:
+  description: SELECTNET-AS, US
+  asn:
+    - 10708
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.137.6.0/24:
+  description: SELECTNET-AS, US
+  asn:
+    - 10708
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.137.9.0/24:
+  description: SELECTNET-AS, US
+  asn:
+    - 10708
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.137.12.0/24:
+  description: SELECTNET-AS, US
+  asn:
+    - 10708
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.137.0.0/24:
+  description: SELECTNET-AS, US
+  asn:
+    - 10708
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.137.13.0/24:
+  description: SELECTNET-AS, US
+  asn:
+    - 10708
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.137.7.0/24:
+  description: SELECTNET-AS, US
+  asn:
+    - 10708
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.137.4.0/24:
+  description: SELECTNET-AS, US
+  asn:
+    - 10708
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.137.15.0/24:
+  description: SELECTNET-AS, US
+  asn:
+    - 10708
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.137.1.0/24:
+  description: SELECTNET-AS, US
+  asn:
+    - 10708
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.137.11.0/24:
+  description: SELECTNET-AS, US
+  asn:
+    - 10708
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.137.14.0/24:
+  description: SELECTNET-AS, US
+  asn:
+    - 10708
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.137.0.0/20:
+  description: SELECTNET-AS, US
+  asn:
+    - 10708
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.137.2.0/24:
+  description: SELECTNET-AS, US
+  asn:
+    - 10708
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.137.8.0/24:
+  description: SELECTNET-AS, US
+  asn:
+    - 10708
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.198.130.0/24:
+  description: MARYANNLIEBERTINC, US
+  asn:
+    - 46183
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+61.213.151.0/24:
+  description: ZADARA-01, US
+  asn:
+    - 394957
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+202.68.69.64/28:
+  description: NTTA-3946, US
+  asn:
+    - 3949
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+202.68.69.96/28:
+  description: NTTA-3946, US
+  asn:
+    - 3949
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+202.68.68.0/26:
+  description: NTTA-3946, US
+  asn:
+    - 3949
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+202.68.68.112/28:
+  description: NTTA-3946, US
+  asn:
+    - 3949
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+202.68.68.96/28:
+  description: NTTA-3946, US
+  asn:
+    - 3949
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+202.68.69.0/27:
+  description: NTTA-3946, US
+  asn:
+    - 3949
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+88.223.182.0/24:
+  description: INIT UAB INIT, LT
+  asn:
+    - 24877
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+88.223.179.0/24:
+  description: INIT UAB INIT, LT
+  asn:
+    - 24877
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+81.93.219.0/24:
+  description: Brilliant-Telecom-Ltd-as BRILLIANT TELECOM LIMITED, CY
+  asn:
+    - 198461
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+83.231.169.0/24:
+  description: FORTINET, US
+  asn:
+    - 40934
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+83.231.152.0/24:
+  description: gl G&amp;L Geissendoerfer &amp; Leschinsky GmbH, DE
+  asn:
+    - 50518
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+83.231.153.0/24:
+  description: ANAPLAN, US
+  asn:
+    - 26114
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+83.231.238.0/24:
+  description: CLARIVATE-01, US
+  asn:
+    - 399734
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+83.231.212.0/24:
+  description: FORTINET, US
+  asn:
+    - 40934
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+83.231.145.0/24:
+  description: FORTINET, US
+  asn:
+    - 40934
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.21.121.0/24:
+  description: NORWEST-VENTURE, US
+  asn:
+    - 22973
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+213.198.6.0/23:
+  description: iONLINE-ISP-UK IONLINE INTERNET SOLUTIONS PROVIDER LTD, GB
+  asn:
+    - 215128
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+213.198.48.0/24:
+  description: AS6220, US
+  asn:
+    - 6220
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+213.198.91.0/24:
+  description: blackpoint blackpoint GmbH, DE
+  asn:
+    - 214319
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+213.198.29.0/24:
+  description: OXAGON-AS OXAGON LIMITED, GB
+  asn:
+    - 201867
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+213.198.49.0/24:
+  description: AS6220, US
+  asn:
+    - 6220
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+213.198.104.0/21:
+  description: TRANSATEL TRANSATEL SAS, FR
+  asn:
+    - 198335
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+213.198.78.0/24:
+  description: blackpoint blackpoint GmbH, DE
+  asn:
+    - 214319
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+213.198.6.0/24:
+  description: iONLINE-ISP-UK IONLINE INTERNET SOLUTIONS PROVIDER LTD, GB
+  asn:
+    - 215128
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+213.198.7.0/24:
+  description: iONLINE-ISP-UK IONLINE INTERNET SOLUTIONS PROVIDER LTD, GB
+  asn:
+    - 215128
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+206.184.17.0/24:
+  description: EQUINIX-CORP-NETWORK, US
+  asn:
+    - 14609
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+216.44.16.0/21:
+  description: CARROLL-NET, US
+  asn:
+    - 14672
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+216.44.16.0/24:
+  description: CARROLL-NET, US
+  asn:
+    - 14672
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+216.44.16.0/20:
+  description: CARROLL-NET, US
+  asn:
+    - 14672
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+216.44.30.0/23:
+  description: CARROLL-NET, US
+  asn:
+    - 14672
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+216.44.24.0/21:
+  description: CARROLL-NET, US
+  asn:
+    - 14672
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+216.44.23.0/24:
+  description: CARROLL-NET, US
+  asn:
+    - 14672
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+216.44.24.0/24:
+  description: CARROLL-NET, US
+  asn:
+    - 14672
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+199.224.14.0/23:
+  description: ISPNET-1, US
+  asn:
+    - 22691
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+199.224.10.0/24:
+  description: CARROLL-NET, US
+  asn:
+    - 14672
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+199.224.0.0/23:
+  description: ISPNET-1, US
+  asn:
+    - 22691
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+199.224.13.0/24:
+  description: ISPNET-1, US
+  asn:
+    - 22691
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+206.222.58.0/23:
+  description: I3BROADBAND, US
+  asn:
+    - 12119
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+202.68.79.128/25:
+  description: NTTA-3946, US
+  asn:
+    - 3949
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.201.160.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.203.92.0/24:
+  description: SCN-NET, US
+  asn:
+    - 12204
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+199.234.64.0/21:
+  description: FULL-SERVICE-NETWORK, US
+  asn:
+    - 32634
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+199.234.89.0/24:
+  description: LUMOS, US
+  asn:
+    - 7795
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+199.234.66.0/24:
+  description: FULL-SERVICE-NETWORK, US
+  asn:
+    - 32634
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+68.170.3.0/24:
+  description: FRONTIER-FRTR, US
+  asn:
+    - 5650
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+68.170.2.0/24:
+  description: AS43260 DGN TEKNOLOJI A.S., TR
+  asn:
+    - 43260
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+200.15.12.0/23:
+  description: TRANSATEL Brasil Ltda, BR
+  asn:
+    - 273452
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+200.15.12.0/24:
+  description: TRANSATEL Brasil Ltda, BR
+  asn:
+    - 273452
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+200.15.13.0/24:
+  description: TRANSATEL Brasil Ltda, BR
+  asn:
+    - 273452
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+200.15.3.0/24:
+  description: AS6220, US
+  asn:
+    - 6220
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+200.15.18.0/23:
+  description: Nicnet Telecom Ltda., BR
+  asn:
+    - 266044
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+200.15.16.0/22:
+  description: Nicnet Telecom Ltda., BR
+  asn:
+    - 266044
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+168.143.179.0/24:
+  description: NTT NTT United Kingdom Ltd, GB
+  asn:
+    - 204670
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+168.143.236.0/24:
+  description: COGENT-174, US
+  asn:
+    - 174
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+168.143.242.0/23:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+168.143.255.0/24:
+  description: PROLEXIC_EU Akamai International B.V., NL
+  asn:
+    - 393560
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+81.19.111.0/24:
+  description: AdvancePayment ZEMPLER BANK LIMITED, GB
+  asn:
+    - 49607
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.91.97.0/24:
+  description: COGENT-174, US
+  asn:
+    - 174
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+120.29.148.0/24:
+  description: ZOOM-VIDEO-COMM-AS, US
+  asn:
+    - 30103
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+61.58.34.0/25:
+  description: GAMEBUILDERS-AS-PH Gamebuilders Inc., PH
+  asn:
+    - 18018
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+61.58.38.0/24:
+  description: ANSL-AS-AP Aldford Network Solutions Limited, PH
+  asn:
+    - 132819
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.168.0/24:
+  description: SERVAXNET, US
+  asn:
+    - 46974
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.247.16/28:
+  description: SKYCREEK-CORP, US
+  asn:
+    - 396370
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.171.0/24:
+  description: SERVAXNET, US
+  asn:
+    - 46974
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.167.0/24:
+  description: SERVAXNET, US
+  asn:
+    - 46974
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.192.0/21:
+  description: NTT-GLOBAL-DATA-CENTERS-AMERICA-INC, US
+  asn:
+    - 393423
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.42.0/23:
+  description: ZOHO-AS, US
+  asn:
+    - 2639
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.179.0/24:
+  description: IGGCOM, US
+  asn:
+    - 55034
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.41.0/24:
+  description: 2600HZ-AS, US
+  asn:
+    - 393792
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.183.0/24:
+  description: SERVAXNET, US
+  asn:
+    - 46974
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.200.0/22:
+  description: CARROLL-NET, US
+  asn:
+    - 14672
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.176.0/24:
+  description: IGGCOM, US
+  asn:
+    - 55034
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.104.0/21:
+  description: NFL1, US
+  asn:
+    - 6210
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.169.0/24:
+  description: SERVAXNET, US
+  asn:
+    - 46974
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.30.0/23:
+  description: ZOOM-VIDEO-COMM-AS, US
+  asn:
+    - 30103
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.144.0/21:
+  description: NFL1, US
+  asn:
+    - 6210
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.37.0/24:
+  description: 2600HZ-AS, US
+  asn:
+    - 393792
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.124.0/22:
+  description: NTTA-3936, US
+  asn:
+    - 3938
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.192.0/23:
+  description: NTT-GLOBAL-DATA-CENTERS-AMERICA-INC, US
+  asn:
+    - 396071
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.56.0/23:
+  description: ALARMNET, US
+  asn:
+    - 36136
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.180.0/24:
+  description: SERVAXNET, US
+  asn:
+    - 46974
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.178.0/24:
+  description: IGGCOM, US
+  asn:
+    - 55034
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.59.0/24:
+  description: ALARMNET, US
+  asn:
+    - 36136
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.173.0/24:
+  description: IGGCOM, US
+  asn:
+    - 55034
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.184.0/22:
+  description: ECINET, US
+  asn:
+    - 14717
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.56.0/22:
+  description: ALARMNET, US
+  asn:
+    - 36136
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.170.0/24:
+  description: SERVAXNET, US
+  asn:
+    - 46974
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.205.0/24:
+  description: COGENT-174, US
+  asn:
+    - 174
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.165.0/24:
+  description: SERVAXNET, US
+  asn:
+    - 46974
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.182.0/24:
+  description: SERVAXNET, US
+  asn:
+    - 46974
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.132.0/22:
+  description: NFL3, US
+  asn:
+    - 17005
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.172.0/24:
+  description: IGGCOM, US
+  asn:
+    - 55034
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.28.0/23:
+  description: ZOOM-VIDEO-COMM-AS, US
+  asn:
+    - 30103
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.84.0/22:
+  description: NTTA-275, US
+  asn:
+    - 275
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.181.0/24:
+  description: SERVAXNET, US
+  asn:
+    - 46974
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.40.0/24:
+  description: ISPNET-1, US
+  asn:
+    - 22691
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.230.0/24:
+  description: ANAPLAN, US
+  asn:
+    - 26114
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.177.0/24:
+  description: IGGCOM, US
+  asn:
+    - 55034
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.218.0/24:
+  description: LUCK-NETO-01, US
+  asn:
+    - 401322
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.152.0/22:
+  description: NFL1, US
+  asn:
+    - 6210
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.35.0/24:
+  description: ISPNET-1, US
+  asn:
+    - 22691
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.160.0/24:
+  description: ZOHO-AS, US
+  asn:
+    - 2639
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.166.0/24:
+  description: SERVAXNET, US
+  asn:
+    - 46974
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.239.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.164.0/24:
+  description: SERVAXNET, US
+  asn:
+    - 46974
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.58.0/23:
+  description: ALARMNET, US
+  asn:
+    - 36136
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.184.0/21:
+  description: ECINET, US
+  asn:
+    - 14717
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.136.0/21:
+  description: NFL3, US
+  asn:
+    - 17005
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.8.0/21:
+  description: TALKPOINT-COMMUNICATIONS-11935, US
+  asn:
+    - 11935
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.80.0/22:
+  description: MUSFIBERNET, US
+  asn:
+    - 40128
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.60.0/22:
+  description: I3BROADBAND, US
+  asn:
+    - 12119
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.32.0/23:
+  description: ZOHO-AS, US
+  asn:
+    - 2639
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.184.0/23:
+  description: ECINET, US
+  asn:
+    - 14717
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.141.97.0/24:
+  description: 2600HZ-AS, US
+  asn:
+    - 393792
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+206.14.125.0/24:
+  description: CORPWEST, US
+  asn:
+    - 13917
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.138.68.0/23:
+  description: TAG-ONLINE, US
+  asn:
+    - 18973
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.138.208.0/23:
+  description: RAMAPO-COLLEGE, US
+  asn:
+    - 18794
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.138.69.0/24:
+  description: TAG-ONLINE, US
+  asn:
+    - 18973
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.138.207.0/24:
+  description: RAMAPO-COLLEGE, US
+  asn:
+    - 18794
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.138.40.0/23:
+  description: URSIN, US
+  asn:
+    - 53577
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.138.210.0/24:
+  description: RAMAPO-COLLEGE, US
+  asn:
+    - 18794
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.138.132.0/22:
+  description: URSIN, US
+  asn:
+    - 53577
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.138.68.0/24:
+  description: TAG-ONLINE, US
+  asn:
+    - 18973
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+199.103.146.0/24:
+  description: VHL-AS1, US
+  asn:
+    - 11729
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+82.112.107.136/29:
+  description: radware Radware Ltd, IL
+  asn:
+    - 48851
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+82.112.107.0/28:
+  description: SECURE-24-AS, US
+  asn:
+    - 46746
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+61.251.99.0/24:
+  description: TRANSATEL1-AS-AP Transatel, SG
+  asn:
+    - 138199
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.27.70.0/24:
+  description: LFLL-ASN, US
+  asn:
+    - 27424
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.27.68.0/24:
+  description: >-
+    START START - Sines Transatlantic Renewable &amp; Technology Campus, S. A.,
+    PT
+  asn:
+    - 214213
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.111.76.0/22:
+  description: TAG-ONLINE, US
+  asn:
+    - 18973
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.241.31.0/24:
+  description: '-Reserved AS-, ZZ'
+  asn:
+    - 22484
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+199.217.153.0/24:
+  description: COGENT-174, US
+  asn:
+    - 174
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+199.217.140.0/24:
+  description: COGENT-174, US
+  asn:
+    - 174
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+199.217.139.0/24:
+  description: COGENT-174, US
+  asn:
+    - 174
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+122.255.93.112/28:
+  description: GAMEBUILDERS-AS-PH Gamebuilders Inc., PH
+  asn:
+    - 18018
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+122.255.94.64/26:
+  description: GAMEBUILDERS-AS-PH Gamebuilders Inc., PH
+  asn:
+    - 18018
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:1401:1c::/64:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:8006::/48:
+  description: RGNET-IAD RGnet OU, EE
+  asn:
+    - 3927
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:8404::/64:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:1401:400::/56:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:4001:4::/64:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:1401:6a::/64:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:1416::/48:
+  description: BOOMCOMMUNICATIONS-, US
+  asn:
+    - 396350
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:1401:300::/56:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:1401:7d::/64:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:1c01:1::/64:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:1401:4::/64:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:4005::/48:
+  description: GRVYUS-PIT-A, US
+  asn:
+    - 1412
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:1456:b21::/64:
+  description: CATCHPOINT, US
+  asn:
+    - 397601
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:1401:21::/64:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:8404:1::/64:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:144d::/48:
+  description: NTTA-275, US
+  asn:
+    - 275
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:1407::/48:
+  description: NTTA-3936, US
+  asn:
+    - 3939
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:1401:25::/64:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:1456:b20::/64:
+  description: CATCHPOINT, US
+  asn:
+    - 397601
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:1401:71::/64:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:144e::/47:
+  description: SNIJDERS Job Snijders, NL
+  asn:
+    - 15562
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:1456:b22::/64:
+  description: CATCHPOINT, US
+  asn:
+    - 397601
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:c06::/48:
+  description: VERIO, US
+  asn:
+    - 262
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:9808::/48:
+  description: NET-DIDATA-NY, US
+  asn:
+    - 21778
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:3807::/48:
+  description: RGNET-DFW RGnet OU, EE
+  asn:
+    - 4128
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:1410::/48:
+  description: IA-AS, US
+  asn:
+    - 2000
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:1401:70::/64:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:8005::/48:
+  description: NTTA-7019, US
+  asn:
+    - 7019
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:1401:2c::/64:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:4001:2::/64:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:8004::/48:
+  description: NTTA-7019, US
+  asn:
+    - 7019
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:1401:7::/64:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:1401:18::/64:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:1439::/48:
+  description: NTTA-1225, US
+  asn:
+    - 1225
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:1401:500::/56:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:1::/48:
+  description: RGNET-SEA RGnet OU, EE
+  asn:
+    - 3130
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+2001:418:1450::/48:
+  description: NTTA-3936, US
+  asn:
+    - 3938
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.64.0/20:
+  description: RELIABLE-NETS, US
+  asn:
+    - 399469
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.178.32/28:
+  description: WT-AUR, US
+  asn:
+    - 400039
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.203.192/26:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.32.0/23:
+  description: MOMENTUM-ACCESS, US
+  asn:
+    - 25645
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.250.0/24:
+  description: LUMENET, US
+  asn:
+    - 54963
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.23.224/28:
+  description: WT-DC2, US
+  asn:
+    - 399641
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.110.0/23:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.238.0/27:
+  description: PRONSS-PULKCO-AS, US
+  asn:
+    - 22006
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.40.0/23:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.251.0/24:
+  description: LUMENET, US
+  asn:
+    - 54963
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.166.0/24:
+  description: TOUCHTONE-LA, US
+  asn:
+    - 63306
+    - 63303
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.201.0/24:
+  description: FORENDATA, US
+  asn:
+    - 19683
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.4.0/23:
+  description: MCF-SOFTWARE, US
+  asn:
+    - 27486
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.123.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.58.0/25:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.177.0/24:
+  description: TERAMUNDI, US
+  asn:
+    - 64233
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.0.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.223.0/24:
+  description: NTT-GLOBAL-DATA-CENTERS-AMERICA-INC, US
+  asn:
+    - 26004
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.152.0/23:
+  description: PSLIGHTWAVE, US
+  asn:
+    - 394437
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.194.0/24:
+  description: CALLIDUS-SOFTWARE, US
+  asn:
+    - 54038
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.119.64/27:
+  description: NET-DIDATA-NY, US
+  asn:
+    - 21778
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.224.96/27:
+  description: STARZENTERTAINMENT, US
+  asn:
+    - 39984
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.145.64/26:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.242.0/24:
+  description: FISHERBROTHERS, US
+  asn:
+    - 22633
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.96.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.191.0/26:
+  description: UMICORE Umicore NV, BE
+  asn:
+    - 203849
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.27.8/29:
+  description: AQR, US
+  asn:
+    - 22794
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.10.0/24:
+  description: NTT-EUROPE NTT United Kingdom Ltd, GB
+  asn:
+    - 8952
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.248.0/24:
+  description: LUMENET, US
+  asn:
+    - 54963
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.142.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.52.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.81.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.163.0/24:
+  description: NTTA-97, US
+  asn:
+    - 97
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.21.160/27:
+  description: NET-DIDATA-NY, US
+  asn:
+    - 21778
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.2.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.60.216/29:
+  description: BCBSLA-ASN, US
+  asn:
+    - 21639
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.101.0/24:
+  description: RELIABLE-NETS, US
+  asn:
+    - 399469
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.147.0/24:
+  description: ISPNET-1, US
+  asn:
+    - 22691
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.216.0/23:
+  description: MWFN, US
+  asn:
+    - 18683
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.26.128/26:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.249.0/24:
+  description: LUMENET, US
+  asn:
+    - 54963
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.156.0/23:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.247.128/25:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.182.0/23:
+  description: I3BROADBAND, US
+  asn:
+    - 12119
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.10.0/23:
+  description: NTT-EUROPE NTT United Kingdom Ltd, GB
+  asn:
+    - 8952
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.88.0/24:
+  description: ZOOM-VIDEO-COMM-AS, US
+  asn:
+    - 30103
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.83.0/24:
+  description: GCM-ASN, US
+  asn:
+    - 46922
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.230.0/23:
+  description: ANAPLAN, US
+  asn:
+    - 26114
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.233.0/24:
+  description: L3NET, US
+  asn:
+    - 22687
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.11.0/24:
+  description: NTT-EUROPE NTT United Kingdom Ltd, GB
+  asn:
+    - 8952
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.143.0/24:
+  description: LFLL-ASN, US
+  asn:
+    - 27424
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.200.0/23:
+  description: FORENDATA, US
+  asn:
+    - 19683
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.98.0/24:
+  description: ISPNET-1, US
+  asn:
+    - 22691
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.16.200/29:
+  description: QUOTEMEDIA, US
+  asn:
+    - 1407
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.150.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.200.0/24:
+  description: FORENDATA, US
+  asn:
+    - 19683
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.237.128/25:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.192.0/22:
+  description: NTT-GLOBAL-DATA-CENTERS-AMERICA-INC, US
+  asn:
+    - 393423
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.144.0/24:
+  description: WBC-ASN-01, US
+  asn:
+    - 397008
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.89.0/24:
+  description: ZOOM-VIDEO-COMM-AS, US
+  asn:
+    - 30103
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.164.0/24:
+  description: NTTA-97, US
+  asn:
+    - 97
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.136.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.12.0/23:
+  description: ANAPLAN, US
+  asn:
+    - 26114
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.130.0/24:
+  description: DLFI, US
+  asn:
+    - 40704
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.66.0/24:
+  description: OPTIMUM-WIFI2, US
+  asn:
+    - 54004
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.46.0/24:
+  description: TOUCHTONE-LA, US
+  asn:
+    - 63306
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.30.0/24:
+  description: TOUCHTONE-NEWARK, US
+  asn:
+    - 63303
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.238.128/25:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.187.0/24:
+  description: AOFL, US
+  asn:
+    - 395423
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.225.0/24:
+  description: SNIJDERS Job Snijders, NL
+  asn:
+    - 15562
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.255.0/26:
+  description: SNIJDERS Job Snijders, NL
+  asn:
+    - 15562
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.132.0/22:
+  description: BOOMCOMMUNICATIONS-, US
+  asn:
+    - 396350
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.20.0/24:
+  description: L3NET, US
+  asn:
+    - 22687
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.43.0/24:
+  description: NTTA-7019, US
+  asn:
+    - 7019
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.44.0/23:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.104.0/24:
+  description: BOLD-TECHNOLOGIES, US
+  asn:
+    - 32799
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.192.0/23:
+  description: CALLIDUS-SOFTWARE, US
+  asn:
+    - 54038
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.222.0/24:
+  description: NTT-GLOBAL-DATA-CENTERS-AMERICA-INC, US
+  asn:
+    - 393423
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.24.240/29:
+  description: PRONSS-PULKCO-AS, US
+  asn:
+    - 22006
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.184.0/23:
+  description: I3BROADBAND, US
+  asn:
+    - 12119
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.107.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.122.0/24:
+  description: CALLTOWER, US
+  asn:
+    - 20340
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.50.0/23:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+165.254.119.128/25:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+129.250.40.0/24:
+  description: NET-DIDATA-NY, US
+  asn:
+    - 21778
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+129.250.128.0/27:
+  description: NTTA-7019, US
+  asn:
+    - 7019
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+129.250.161.0/24:
+  description: NET-DIDATA-NY, US
+  asn:
+    - 21778
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+129.250.161.128/27:
+  description: NET-DIDATA-NY, US
+  asn:
+    - 21778
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+129.250.203.64/29:
+  description: NTTDATA-RAGINGWIRE, US
+  asn:
+    - 393536
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+202.68.74.112/28:
+  description: NTTA-3946, US
+  asn:
+    - 3949
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+202.68.75.80/28:
+  description: NTTA-3946, US
+  asn:
+    - 3949
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+202.68.74.96/28:
+  description: NTTA-3946, US
+  asn:
+    - 3949
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+202.68.74.208/28:
+  description: NTTA-3946, US
+  asn:
+    - 3949
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+209.227.78.0/24:
+  description: COGENT-174, US
+  asn:
+    - 174
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+209.227.79.0/24:
+  description: COGENT-174, US
+  asn:
+    - 174
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+206.50.7.0/24:
+  description: CYBERLINKASP, US
+  asn:
+    - 32256
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+206.50.6.0/24:
+  description: CYBERLINKASP, US
+  asn:
+    - 32256
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+209.212.236.0/24:
+  description: NETDEPON, US
+  asn:
+    - 11158
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+209.212.232.0/24:
+  description: NETDEPON, US
+  asn:
+    - 11158
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+209.212.235.0/24:
+  description: NETDEPON, US
+  asn:
+    - 11158
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+209.212.229.0/24:
+  description: NETDEPON, US
+  asn:
+    - 11158
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+209.212.228.0/24:
+  description: NETDEPON, US
+  asn:
+    - 11158
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+209.212.234.0/24:
+  description: NETDEPON, US
+  asn:
+    - 11158
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+209.212.233.0/24:
+  description: NETDEPON, US
+  asn:
+    - 11158
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.170.185.0/24:
+  description: HOU-PHONOSCOPE, US
+  asn:
+    - 22442
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.170.192.0/24:
+  description: KLEIN-ISD, US
+  asn:
+    - 54772
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.170.193.0/24:
+  description: HOU-PHONOSCOPE, US
+  asn:
+    - 22442
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.170.184.0/23:
+  description: HOU-PHONOSCOPE, US
+  asn:
+    - 22442
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.170.189.0/24:
+  description: HOU-PHONOSCOPE, US
+  asn:
+    - 22442
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+199.239.182.0/23:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+199.239.184.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.156.218.0/24:
+  description: ECL-ASN, US
+  asn:
+    - 40212
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.156.216.0/24:
+  description: ECL-ASN, US
+  asn:
+    - 40212
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+209.107.79.0/24:
+  description: ROTARY-INTERNATIONAL, US
+  asn:
+    - 26812
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+209.107.78.0/24:
+  description: ROTARY-INTERNATIONAL, US
+  asn:
+    - 26812
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.170.208.0/24:
+  description: INTELLICOMM-1, US
+  asn:
+    - 36035
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.171.48.0/22:
+  description: WIU7, US
+  asn:
+    - 14088
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.170.35.0/24:
+  description: COGENT-174, US
+  asn:
+    - 174
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.170.32.0/24:
+  description: DECISIONONE, US
+  asn:
+    - 12062
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.233.235.0/24:
+  description: COGENT-174, US
+  asn:
+    - 174
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+192.204.148.0/24:
+  description: URSIN, US
+  asn:
+    - 53577
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+192.204.146.0/24:
+  description: URSIN, US
+  asn:
+    - 53577
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+192.204.14.0/23:
+  description: ZOOM-VIDEO-COMM-AS, US
+  asn:
+    - 30103
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+192.204.5.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+192.204.12.0/23:
+  description: ZOOM-VIDEO-COMM-AS, US
+  asn:
+    - 30103
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+192.204.144.0/24:
+  description: URSIN, US
+  asn:
+    - 53577
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+192.204.26.0/23:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+192.204.145.0/24:
+  description: URSIN, US
+  asn:
+    - 53577
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+192.204.107.0/24:
+  description: URSIN, US
+  asn:
+    - 53577
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+192.204.106.0/24:
+  description: URSIN, US
+  asn:
+    - 53577
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+124.40.52.208/28:
+  description: AKAMAI-TYO-AP Akamai Technologies Tokyo ASN, SG
+  asn:
+    - 24319
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+124.40.52.128/26:
+  description: crossivity Crossivity bv, NL
+  asn:
+    - 50601
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+124.40.50.0/25:
+  description: GSI-AP Gilead Sciences, Inc., JP
+  asn:
+    - 133900
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+124.40.53.128/25:
+  description: TERAEXCH, US
+  asn:
+    - 399077
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+124.40.56.0/24:
+  description: CDSC-AS1, US
+  asn:
+    - 63199
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+124.40.55.0/24:
+  description: IBOSS-AS-AP IBOSS Inc., US
+  asn:
+    - 137922
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+124.40.57.0/24:
+  description: CDSC-AS1, US
+  asn:
+    - 63199
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+124.40.56.0/23:
+  description: CDSC-AS1, US
+  asn:
+    - 63199
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+120.88.56.0/23:
+  description: TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
+  asn:
+    - 132203
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.22.0/24:
+  description: FORTINET, US
+  asn:
+    - 40934
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.64.0/20:
+  description: EVENTINFRA-AS Stichting EventInfra, NL
+  asn:
+    - 64404
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.0.0/20:
+  description: CNSNEXT, US
+  asn:
+    - 16700
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.128.208/28:
+  description: CATCHPOINT, US
+  asn:
+    - 397601
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.146.0/25:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.220.0/24:
+  description: QUASAR-DATA-CENTER, US
+  asn:
+    - 46785
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.156.0/23:
+  description: TERAMUNDI, US
+  asn:
+    - 64233
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.137.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.162.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.187.0/24:
+  description: FORTINET, US
+  asn:
+    - 40934
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.238.0/23:
+  description: NTTA-3936, US
+  asn:
+    - 3939
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.172.0/22:
+  description: MOMENTUM-ACCESS, US
+  asn:
+    - 25645
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.160.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.169.0/24:
+  description: NTTA-3936, US
+  asn:
+    - 3939
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.228.0/24:
+  description: BREEZETECH, US
+  asn:
+    - 400810
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.240.80/28:
+  description: EDISON-CARRIER-SOLUTIONS, US
+  asn:
+    - 395563
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.135.0/24:
+  description: BREEZETECH, US
+  asn:
+    - 400810
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.30.0/23:
+  description: SNIJDERS Job Snijders, NL
+  asn:
+    - 15562
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.193.16/29:
+  description: NET-DIDATA-NY, US
+  asn:
+    - 21778
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.197.0/24:
+  description: MEDIA6-ASN, US
+  asn:
+    - 1422
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.200.0/23:
+  description: NET-DIDATA-NY, US
+  asn:
+    - 21778
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.132.64/26:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.23.224/28:
+  description: ROTARY-INTERNATIONAL, US
+  asn:
+    - 26812
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.140.0/22:
+  description: NTTA-1225, US
+  asn:
+    - 1225
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.158.0/23:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.230.0/24:
+  description: GST-SERVICES, US
+  asn:
+    - 397550
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.196.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.21.0/24:
+  description: SLASCONSULTING, US
+  asn:
+    - 36640
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.164.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.35.0/24:
+  description: ATSG-REDICLOUD, US
+  asn:
+    - 394563
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.56.128/28:
+  description: CATCHPOINT, US
+  asn:
+    - 397601
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.242.128/25:
+  description: EDISON-CARRIER-SOLUTIONS, US
+  asn:
+    - 395563
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.32.0/23:
+  description: ANAPLAN, US
+  asn:
+    - 26114
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.1.160.0/19:
+  description: YADTELNET, US
+  asn:
+    - 33647
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.16.0/23:
+  description: FORENDATA, US
+  asn:
+    - 19683
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.145.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.20.0/24:
+  description: HOU-PHONOSCOPE, US
+  asn:
+    - 22442
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.19.0/24:
+  description: FORTINET, US
+  asn:
+    - 40934
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.16.0/24:
+  description: FORENDATA, US
+  asn:
+    - 19683
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.155.0/24:
+  description: DV-TRADING-LLC, US
+  asn:
+    - 26970
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.0.1.192/27:
+  description: NET-DIDATA-NY, US
+  asn:
+    - 21778
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.41.0/24:
+  description: CLARIVATE-01, US
+  asn:
+    - 399734
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.165.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.37.0/24:
+  description: HOU-PHONOSCOPE, US
+  asn:
+    - 22442
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.1.141.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.136.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.139.0/24:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.18.0/26:
+  description: SECURITYSERVICES, US
+  asn:
+    - 12008
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.244.0/22:
+  description: ASN-FLEXENTIAL, US
+  asn:
+    - 13649
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.170.32/27:
+  description: GRVYUS-PIT-A, US
+  asn:
+    - 1412
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.178.80/28:
+  description: CATCHPOINT, US
+  asn:
+    - 397601
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.17.0/24:
+  description: FORENDATA, US
+  asn:
+    - 19683
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.132.128/25:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.36.0/24:
+  description: CSM-AS, US
+  asn:
+    - 16986
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.43.0/24:
+  description: ULTATEL-AS-DC03, US
+  asn:
+    - 398347
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.198.0/24:
+  description: EDISON-CARRIER-SOLUTIONS, US
+  asn:
+    - 395563
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.2.88.0/21:
+  description: CRITICALHUBNET, PR
+  asn:
+    - 23114
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+204.1.160.0/24:
+  description: YADTELNET, US
+  asn:
+    - 33647
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+207.20.85.0/24:
+  description: EQUINIX-CORP-NETWORK, US
+  asn:
+    - 14609
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+216.42.132.0/24:
+  description: CENTRILOGIC-ASN, US
+  asn:
+    - 19693
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+216.42.131.0/24:
+  description: CENTRILOGIC-ASN, US
+  asn:
+    - 19693
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+83.217.232.0/24:
+  description: AdvancePayment ZEMPLER BANK LIMITED, GB
+  asn:
+    - 49607
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+157.238.136.0/21:
+  description: CENTRILOGIC-ASN, US
+  asn:
+    - 19693
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+157.238.211.0/24:
+  description: NTTDATA-RAGINGWIRE, US
+  asn:
+    - 393536
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+157.238.178.0/24:
+  description: COGENT-174, US
+  asn:
+    - 174
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.22.0/24:
+  description: FORTINET, US
+  asn:
+    - 40934
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.208.0/21:
+  description: HONEST, US
+  asn:
+    - 29852
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.47.0/24:
+  description: TELECOMUNICACIONES G-NETWORK, C.A., VE
+  asn:
+    - 272122
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.128.0/19:
+  description: AS-XFERNET, US
+  asn:
+    - 27630
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.39.0/24:
+  description: IONLINE-ISP-, US
+  asn:
+    - 401008
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.9.0/24:
+  description: HYPERMEDIA-SYSTEMS, US
+  asn:
+    - 30212
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.40.0/24:
+  description: TELECOMUNICACIONES G-NETWORK, C.A., VE
+  asn:
+    - 272122
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.43.0/24:
+  description: TELECOMUNICACIONES G-NETWORK, C.A., VE
+  asn:
+    - 272122
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.216.0/21:
+  description: HONEST, US
+  asn:
+    - 29852
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.186.0/24:
+  description: AS40676, US
+  asn:
+    - 40676
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.192.0/20:
+  description: RUCLS1, US
+  asn:
+    - 62759
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.19.0/24:
+  description: SUMO-SC, US
+  asn:
+    - 399145
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.37.0/24:
+  description: TOUCHTONE-CUSTS, US
+  asn:
+    - 63376
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.30.0/24:
+  description: TOUCHTONE-CUSTS, US
+  asn:
+    - 63376
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.0.0/22:
+  description: HYPERMEDIA-SYSTEMS, US
+  asn:
+    - 30212
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.36.0/24:
+  description: PROQUEST, US
+  asn:
+    - 40675
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.80.0/20:
+  description: HONEST, US
+  asn:
+    - 29852
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.179.0/24:
+  description: AS40676, US
+  asn:
+    - 40676
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.182.0/24:
+  description: AS40676, US
+  asn:
+    - 40676
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.228.0/24:
+  description: NTT NTT United Kingdom Ltd, GB
+  asn:
+    - 2914
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.23.0/24:
+  description: FORTINET, US
+  asn:
+    - 40934
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.45.0/24:
+  description: TELECOMUNICACIONES G-NETWORK, C.A., VE
+  asn:
+    - 272122
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.44.0/24:
+  description: TELECOMUNICACIONES G-NETWORK, C.A., VE
+  asn:
+    - 272122
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.64.0/19:
+  description: HONEST, US
+  asn:
+    - 29852
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.181.0/24:
+  description: AS40676, US
+  asn:
+    - 40676
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.41.0/24:
+  description: TELECOMUNICACIONES G-NETWORK, C.A., VE
+  asn:
+    - 272122
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.178.0/24:
+  description: AS40676, US
+  asn:
+    - 40676
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.208.0/20:
+  description: HONEST, US
+  asn:
+    - 29852
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.183.0/24:
+  description: AS40676, US
+  asn:
+    - 40676
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.19.128/25:
+  description: SUMO-SC, US
+  asn:
+    - 399145
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.27.0/24:
+  description: TOUCHTONE-NEWARK, US
+  asn:
+    - 63303
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.64.0/20:
+  description: HONEST, US
+  asn:
+    - 29852
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.224.0/24:
+  description: NTT NTT United Kingdom Ltd, GB
+  asn:
+    - 204670
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.240.0/20:
+  description: CRITICALHUBNET, PR
+  asn:
+    - 23114
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.180.0/24:
+  description: AS40676, US
+  asn:
+    - 40676
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.177.0/24:
+  description: AS40676, US
+  asn:
+    - 40676
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.46.0/24:
+  description: TELECOMUNICACIONES G-NETWORK, C.A., VE
+  asn:
+    - 272122
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.26.0/24:
+  description: SECGLOBE, US
+  asn:
+    - 54714
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.4.0/22:
+  description: MULTA-ASN1, US
+  asn:
+    - 35916
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.185.0/24:
+  description: AS40676, US
+  asn:
+    - 40676
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.32.0/24:
+  description: PROQUEST-AS, US
+  asn:
+    - 1975
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.38.0/23:
+  description: IONLINE-ISP-, US
+  asn:
+    - 401008
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.8.0/24:
+  description: HYPERMEDIA-SYSTEMS, US
+  asn:
+    - 30212
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.19.0/25:
+  description: SUMO-SC, US
+  asn:
+    - 399145
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.33.0/24:
+  description: TRANSATEL-, US
+  asn:
+    - 394333
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.38.0/24:
+  description: IONLINE-ISP-, US
+  asn:
+    - 401008
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.176.0/24:
+  description: AS40676, US
+  asn:
+    - 40676
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.184.0/24:
+  description: AS40676, US
+  asn:
+    - 40676
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.187.0/24:
+  description: AS40676, US
+  asn:
+    - 40676
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.24.0/23:
+  description: AKAMAI-ASN1 Akamai International B.V., NL
+  asn:
+    - 20940
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+140.174.42.0/24:
+  description: TELECOMUNICACIONES G-NETWORK, C.A., VE
+  asn:
+    - 272122
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+202.47.27.64/26:
+  description: NINTATSU Nintatsu Global Telecommunications Corporation, JP
+  asn:
+    - 55888
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+61.120.148.0/25:
+  description: EAGLEEYENETWORKS, US
+  asn:
+    - 394646
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.88.216.0/24:
+  description: I3BROADBAND, US
+  asn:
+    - 12119
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+198.88.120.0/23:
+  description: I3BROADBAND, US
+  asn:
+    - 12119
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+103.13.83.152/29:
+  description: NTTA-3946, US
+  asn:
+    - 3949
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+103.13.83.160/29:
+  description: NTTA-3946, US
+  asn:
+    - 3949
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+103.13.83.64/28:
+  description: NTTIP-AS-AP NTT Australia Solutions Pty Ltd, AU
+  asn:
+    - 23918
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+103.13.83.112/28:
+  description: NTTIP-AS-AP NTT Australia Solutions Pty Ltd, AU
+  asn:
+    - 23918
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+103.13.83.176/28:
+  description: NTTIP-AS-AP NTT Australia Solutions Pty Ltd, AU
+  asn:
+    - 23918
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+103.13.83.144/29:
+  description: NTTA-3946, US
+  asn:
+    - 3949
+  ignoreMorespecifics: true
+  ignore: false
+  group: noc
+options:
+  monitorASns: {}
+  generate:
+    exclude: []
+    excludeDelegated: false
+    monitoredASes: false
+    historical: false
+    group: noc
+    asnList:
+      - '2914'
